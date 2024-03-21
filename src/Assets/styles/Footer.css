@@ -1,0 +1,106 @@
+#footer {
+  background: url("../Img/footer-bg.png") no-repeat;
+  height: 800px;
+  margin-top: 300px;
+  position: relative;
+}
+.footer img {
+  position: absolute;
+  left: 0;
+  top: -200px;
+}
+.footer-text {
+  position: absolute;
+  top: 240px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 80px;
+}
+.text1 h3 {
+  color: #b6c197;
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: left;
+}
+.text1 h4 {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: left;
+  color: #ffffff;
+}
+.footer hr {
+  position: absolute;
+  width: 1110px;
+  height: 1px;
+  top: 370px;
+  background: #5d6544;
+}
+.footer-bet {
+  position: absolute;
+  top: 480px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 200px;
+}
+.bet-texts {
+  display: flex;
+  align-items: flex-start;
+  gap: 90px;
+}
+.bet-text h3 {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 38px;
+  text-align: left;
+  color: #ffffff;
+}
+.bet-text p {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: left;
+  color: #b6c197;
+}
+.get-text {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.get-text h2 {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 38px;
+  text-align: left;
+  color: #ffffff;
+}
+.get-text h3 {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  color: #b6c197;
+  margin-top: 20px;
+}
+.get-text h1 {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 38px;
+  text-align: left;
+  color: #ffffff;
+}
+.get-text img {
+  position: absolute;
+  top: 280px;
+  right: 0;
+}
